@@ -1,0 +1,50 @@
+.kitchenAid {
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 2rem;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+input,
+select {
+    width: 100px;
+}
+
+.output {
+    width: 100%;
+}
+
+.output>h3 {
+    text-align: right;
+}
+.kitchenAid {
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 2rem;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+input,
+select {
+    width: 100px;
+}
+
+.output {
+    width: 100%;
+}
+
+.output>h3 {
+    text-align: right;
+}
